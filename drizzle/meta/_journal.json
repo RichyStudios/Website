@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789045922434,
+      "tag": "0000_blushing_giant_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789046582950,
+      "tag": "0001_lethal_mercury",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789046847549,
+      "tag": "0002_powerful_doctor_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1789056049198,
+      "tag": "0003_cold_carmella_unuscione",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1789070292187,
+      "tag": "0004_white_metal_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1789070868409,
+      "tag": "0005_luxuriant_the_call",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1789071251828,
+      "tag": "0006_superb_venom",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1789071902758,
+      "tag": "0007_yummy_namora",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1789144357727,
+      "tag": "0008_bumpy_golden_guardian",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1789145192318,
+      "tag": "0009_wonderful_killraven",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1789644447819,
+      "tag": "0010_perpetual_onslaught",
+      "breakpoints": true
+    }
+  ]
+}

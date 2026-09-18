@@ -1,0 +1,1 @@
+ALTER TABLE `posts` ADD `video` text DEFAULT '' NOT NULL;
